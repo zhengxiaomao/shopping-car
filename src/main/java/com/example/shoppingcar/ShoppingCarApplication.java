@@ -9,6 +9,7 @@ public class ShoppingCarApplication {
     public static void main(String[] args) {
 
 
+        //代码合并测试
         SpringApplication.run(ShoppingCarApplication.class, args);
     }
 
