@@ -11,6 +11,7 @@ public class ShoppingCarApplication {
 
         //代码合并测试2
         SpringApplication.run(ShoppingCarApplication.class, args);
+
     }
 
 }
